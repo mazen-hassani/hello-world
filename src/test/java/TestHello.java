@@ -16,7 +16,7 @@ public class TestHello {
             System.setOut(originalOut);
         }
 
-        assertEquals("42\n", bos.toString());
+        assertEquals("42\r\n", bos.toString());
     }
 
     @Test
