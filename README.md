@@ -15,7 +15,7 @@ Implement the `sum` function in `src/main/java/Hello.java`. Make sure tests pass
 
 *Q*: Did you succeed in running tests locally before submitting the code?
 
-*A*: ...
+*A*: yes
 
 ## Help
 

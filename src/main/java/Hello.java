@@ -5,6 +5,6 @@ public class Hello {
 
     public static int sum(int first, int second) {
         // TODO: Write the code here.
-        return 0;
+        return (first+second);
     }
 }
